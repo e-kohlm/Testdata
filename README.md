@@ -1,5 +1,5 @@
 # Testdata
-**All that is needed to repeat experiment is in here**<br>
+**All that is needed to repeat experiment**<br>
 Classes under test: CUT.zip <br>
 Scripts to run test ten times: tenRuns.sh and threeP_tenRuns.sh <br>
 
